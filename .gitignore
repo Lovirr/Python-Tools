@@ -1,0 +1,10 @@
+.idea/
+html-compresser/input/*
+!html-compresser/input/.gitkeep
+count-pdf/input/*
+!count-pdf/input/.gitkeep
+webp-converter/input/*
+!webp-converter/input/.gitkeep
+word-to-pdf/input/*
+!word-to-pdf/input/.gitkeep
+
